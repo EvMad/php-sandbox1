@@ -27,11 +27,11 @@
             Categories
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Category</a></li>
+            <li><a class="dropdown-item" href="#">Dogs</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Another Category</a></li>
+            <li><a class="dropdown-item" href="#">Cats</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Some other Category</a></li>
+            <li><a class="dropdown-item" href="#">Dogs and Cats Together</a></li>
           </ul>
         </li>
        
