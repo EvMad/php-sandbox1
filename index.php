@@ -98,6 +98,12 @@
     <div class="col-lg-4 col-md-4 col-12">
         <img src="images/dogs1.jpg" class="img-fluid pb-3">
     </div>
+    <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/dogs2.jpg" class="img-fluid pb-3">
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/dogs4.jpg" class="img-fluid pb-3">
+    </div>
 
 </section>
 
