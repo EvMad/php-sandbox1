@@ -93,9 +93,12 @@
 
 <section class="my-4">
     <div class="py-4">
-        <h2 class="text-center"></h2>
+        <h2 class="text-center">Dogs</h2>
     </div>
-    
+    <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/dogs1.jpg" class="img-fluid pb-3">
+    </div>
+
 </section>
 
 
