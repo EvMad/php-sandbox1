@@ -10,6 +10,8 @@
     <title>PHP Sandbox</title>
 </head>
 <body>
+
+<!-- Navbar begin -->
 <nav class="navbar navbar-expand-lg navbar-light bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">PHP Sandbox</a>
@@ -46,7 +48,9 @@
     </div>
   </div>
 </nav>
+<!-- Navbar end -->
 
+<!-- Carousel begin -->
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -85,6 +89,7 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+<!-- Carousel End -->
 
 
 <script> src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"</script>
