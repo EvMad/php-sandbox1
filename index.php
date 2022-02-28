@@ -91,6 +91,8 @@
 </div>
 <!-- Carousel End -->
 
+
+<!-- begin category 1 section -->
 <section class="my-4">
     <div class="py-4">
         <h2 class="text-center">Dogs</h2>
@@ -113,8 +115,60 @@
         <!-- end Container div -->
     </div>
  
-
 </section>
+<!-- end category 1 section -->
+
+<!-- begin category 2 section -->
+<section class="my-4">
+    <div class="py-4">
+        <h2 class="text-center">Cats</h2>
+    </div>
+    <!-- begin Container div -->
+    <div class="container-fluid">
+        <!-- begin row div -->
+        <div class="row">
+        <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/cats1.jpg" class="img-fluid pb-3">
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/cats2.jpg" class="img-fluid pb-3">
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/cats4.jpg" class="img-fluid pb-3">
+    </div>
+    <!-- end row div -->
+        </div>
+        <!-- end Container div -->
+    </div>
+ 
+</section>
+<!-- end category 2 section -->
+
+<!-- begin category 3 section -->
+<section class="my-4">
+    <div class="py-4">
+        <h2 class="text-center">Dogs and Cats Together</h2>
+    </div>
+    <!-- begin Container div -->
+    <div class="container-fluid">
+        <!-- begin row div -->
+        <div class="row">
+        <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/both1.jpg" class="img-fluid pb-3">
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/both2.jpg" class="img-fluid pb-3">
+    </div>
+    <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/both4.jpg" class="img-fluid pb-3">
+    </div>
+    <!-- end row div -->
+        </div>
+        <!-- end Container div -->
+    </div>
+ 
+</section>
+<!-- end category 3 section -->
 
 
 <script> src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"</script>
