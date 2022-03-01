@@ -205,7 +205,15 @@
         <h2 class="text-center">About</h2>
     </div>
 
-    <!-- end  about section -->
+    <div class="container-fluid">
+        <h3 class="text-center">Sandbox</h3>
+        <p class="text-center"><b>Learning about PHP while also using Bootstrap</b></p>
+    </div>
+
+
+</section>
+
+<!-- end  about section -->
 
 
 <script> src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"</script>
