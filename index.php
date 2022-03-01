@@ -179,7 +179,10 @@
 
     <div class="w-50 m-auto">
         <form action="about.php" method="post">
-            
+            <div class="form-group">
+                <label>Name:</label>
+                <input type="text" name="name" class="form-control">
+            </div>
         </form>
     </div>
 </section>
