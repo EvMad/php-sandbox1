@@ -177,7 +177,7 @@
 <!-- end category 3 section -->
 
 <!-- begin contact section -->
-
+<a id="contact">
 <section class="my-4">
     <div class="py-4">
         <h2 class="text-center">Contact Us</h2>
@@ -201,11 +201,11 @@
         </form>
     </div>
 </section>
-
+</a>
 <!-- end contact section -->
 
 <!-- begin about section -->
-
+<a id="about">
 <section class="my-4">
     <div class="py-4">
         <h2 class="text-center">About</h2>
@@ -218,7 +218,7 @@
 
 
 </section>
-
+</a>
 <!-- end  about section -->
 
 
