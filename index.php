@@ -93,6 +93,7 @@
 
 
 <!-- begin category 1 section -->
+<a id="dogs">
 <section class="my-4">
     <div class="py-4">
         <h2 class="text-center">Dogs</h2>
@@ -116,9 +117,11 @@
     </div>
  
 </section>
+</a>
 <!-- end category 1 section -->
 
 <!-- begin category 2 section -->
+<a id="cats">
 <section class="my-4">
     <div class="py-4">
         <h2 class="text-center">Cats</h2>
@@ -142,9 +145,11 @@
     </div>
  
 </section>
+</a>
 <!-- end category 2 section -->
 
 <!-- begin category 3 section -->
+<a id="both">
 <section class="my-4">
     <div class="py-4">
         <h2 class="text-center">Dogs and Cats Together</h2>
@@ -168,6 +173,7 @@
     </div>
  
 </section>
+</a>
 <!-- end category 3 section -->
 
 <!-- begin contact section -->
