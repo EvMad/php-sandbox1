@@ -177,6 +177,11 @@
         <h2 class="text-center">Contact Us</h2>
     </div>
 
+    <div class="w-50 m-auto">
+        <form action="about.php" method="post">
+            
+        </form>
+    </div>
 </section>
 
 <!-- end contact section -->
