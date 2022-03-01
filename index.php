@@ -207,7 +207,7 @@
 
     <div class="container-fluid">
         <h3 class="text-center">Sandbox</h3>
-        <p class="text-center"><b>Learning about PHP while also using Bootstrap</b></p>
+        <p class="text-center"><b>Learning PHP</b></p>
     </div>
 
 
