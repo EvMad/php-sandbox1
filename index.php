@@ -198,6 +198,15 @@
 
 <!-- end contact section -->
 
+<!-- begin about section -->
+
+<section class="my-4">
+    <div class="py-4">
+        <h2 class="text-center">About</h2>
+    </div>
+
+    <!-- end  about section -->
+
 
 <script> src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
