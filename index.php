@@ -29,20 +29,20 @@
             Categories
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Dogs</a></li>
+            <li><a class="dropdown-item" href="#dogs">Dogs</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Cats</a></li>
+            <li><a class="dropdown-item" href="#cats">Cats</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Dogs and Cats Together</a></li>
+            <li><a class="dropdown-item" href="#both">Dogs and Cats Together</a></li>
           </ul>
         </li>
        
       </ul>
       <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="#contact">Contact</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#about">About</a>
         </li>
      
     </div>
