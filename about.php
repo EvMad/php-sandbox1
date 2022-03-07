@@ -1,3 +1,5 @@
+<!-- needs XAMMP deployment for MySQL -->
+
 <?php
 
 $con = mysqli_connect('localhost', 'root')
