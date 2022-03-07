@@ -224,7 +224,14 @@
 <!-- calculator -->
 
 <form action="functions.php" method="get">
-
+  <input type="text" name="num01" placeholder="Number of dogs">
+  <select name="oper">
+    <label>Choose operation:</label>
+    <option value="add">Add</option>
+    <option value="sub">Subtract</option>
+  </select>
+  <input type="text" name="num02" placeholder="Number of cats">
+  <button type="submit">Calculate number of dogs and cats!</button>
 </form>
 
 
