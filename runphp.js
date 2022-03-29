@@ -1,5 +1,5 @@
-// import phpServer from 'php-server';
-const phpServer = require('php-server');
+import phpServer from 'php-server';
+// const phpServer = require('php-server');
 
 phpServer.createServer({
     port: 8000,
