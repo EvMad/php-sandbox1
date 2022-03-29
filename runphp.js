@@ -1,7 +1,7 @@
 // import phpServer from 'php-server';
 const phpServer = require('node-php-server');
 
-const server = await phpServer({
+phpServer.createServer({
     port: 8000,
     keepalive: false,
     open: false,
