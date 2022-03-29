@@ -1,4 +1,5 @@
-import phpServer from 'php-server';
+// import phpServer from 'php-server';
+const phpServer = require('node-php-server');
 
 const server = await phpServer({
     port: 8000,
