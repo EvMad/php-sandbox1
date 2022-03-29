@@ -8,3 +8,6 @@ const server = await phpServer({
     router: __dirname + '/server.php'
 });
 console.log(`PHP server running at ${server.url}`);
+
+//close server
+phpServer.close();
