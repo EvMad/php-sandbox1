@@ -225,10 +225,11 @@
 
 <section class="section">
 
-<div class="columns is-multiline">
-
+<div class="container is-fluid">
 <form action="functions.php" method="get">
-  <input type="text" name="num01" placeholder="Number of dogs">
+
+<div class="form-group">
+<input type="text" name="num01" placeholder="Number of dogs">
   <select name="oper">
     <label>Choose operation:</label>
     <option value="add">Add</option>
@@ -236,6 +237,8 @@
   </select>
   <input type="text" name="num02" placeholder="Number of cats">
   <button type="submit">Calculate number of dogs and cats!</button>
+</div>
+
 </form>
 
 </div>
