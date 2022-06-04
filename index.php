@@ -224,6 +224,8 @@
 <!-- calculator -->
 
 <section class="section">
+
+<div class="container is-fluid">
 <form action="functions.php" method="get">
   <input type="text" name="num01" placeholder="Number of dogs">
   <select name="oper">
@@ -234,7 +236,10 @@
   <input type="text" name="num02" placeholder="Number of cats">
   <button type="submit">Calculate number of dogs and cats!</button>
 </form>
+</div>
+
 </section>
+<!--calculator end -->
 
 
 <script> src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"</script>
