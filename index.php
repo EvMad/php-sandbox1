@@ -91,6 +91,8 @@
 </div> -->
 <!-- Carousel End -->
 
+<!--category div begin-->
+<div class="d-flex justify-content-around">
 
 <!-- begin category 1 section -->
 <a id="dogs">
@@ -175,6 +177,11 @@
 </section>
 </a>
 <!-- end category 3 section -->
+
+</div>
+<!--category div end-->
+
+
 
 <!-- begin contact section -->
 <a id="contact">
