@@ -9,6 +9,10 @@
     height: 95vh;
 }
 
+.navbar {
+    color: #fff;
+}
+
 .navbar-brand a{
     color: #fff;
 }
