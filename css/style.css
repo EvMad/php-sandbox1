@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+nav {
+    position: sticky;
+}
+
 .carousel-item img{
     width: 100%;
     height: 95vh;
